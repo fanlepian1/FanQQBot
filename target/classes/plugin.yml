@@ -1,5 +1,5 @@
 name: FanQQBot
-version: '1.2'
+version: '1.3'
 main: fun.fanlepian.FanQQBot
 api-version: '1.21'
 commands:

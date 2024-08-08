@@ -9,7 +9,6 @@ import java.io.File;
 
 public final class FanQQBot extends JavaPlugin {
     private static FanQQBot instance;
-
     private WebSocketClient webSocketClient;
     public static File locationFile;
     public static YamlConfiguration location;
