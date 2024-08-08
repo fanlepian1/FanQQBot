@@ -1,14 +1,11 @@
 package fun.fanlepian;
 
 import fun.fanlepian.Command.getLocation;
-import org.bukkit.configuration.Configuration;
 import org.bukkit.configuration.file.YamlConfiguration;
 import org.bukkit.plugin.java.JavaPlugin;
 import org.java_websocket.client.WebSocketClient;
 
-import javax.inject.Inject;
 import java.io.File;
-import java.io.IOException;
 
 public final class FanQQBot extends JavaPlugin {
     private static FanQQBot instance;
