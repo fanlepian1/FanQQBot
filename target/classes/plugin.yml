@@ -1,0 +1,7 @@
+name: FanQQBot
+version: '1.2'
+main: fun.fanlepian.FanQQBot
+api-version: '1.21'
+commands:
+  fanqqbot:
+    permission: fanqqbot.player
