@@ -29,7 +29,6 @@ public final class FanQQBot extends JavaPlugin {
 
     @Override
     public void onDisable() {
-
         if (webSocketClient != null) {
             // 尝试关闭 WebSocket 连接
             try {
